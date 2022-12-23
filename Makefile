@@ -13,7 +13,7 @@ GH_PROJECT =	${N}
 GH_TAGNAME =	9a5e1e891027e1a347369973ebd79d62b7922c61
 
 HOMEPAGE =	http://goldendict.org/
-MAINTAINER =	S, Aleksandr Mikhaylov <alex@alexmihajlov.ru>
+MAINTAINER =	Andrew Krasavin <noiseless-ak@yandex.ru>, Aleksandr Mikhaylow <alex@alexmihajlov.ru>
 
 # GPLv3+
 PERMIT_PACKAGE =	Yes
