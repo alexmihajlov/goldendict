@@ -1,5 +1,3 @@
-# $OpenBSD: Makefile,v 1.4 2020/08/20 20:50:02 noiseless Exp $
-
 PKGNAME =	${N}-${V}
 N =		goldendict
 V =		1.5.0RC2.20221223
