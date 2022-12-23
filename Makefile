@@ -6,7 +6,7 @@ V =		1.5.0RC2.20221223
 REVISION =	0
 COMMENT =	Feature-rich dictionary lookup program
 DISTNAME =	${GH_TAGNAME}
-CATEGORIES =	textproc local
+CATEGORIES =	textproc
 
 GH_ACCOUNT =	${N}
 GH_PROJECT =	${N}
